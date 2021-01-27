@@ -4,7 +4,7 @@
 [github 바로가기](https://github.com/whiteship/live-study) / [youtube 바로가기](www.youtube.com/user/whiteship2000)
  
 - 유튜브로 진행하는 'Java 기초' Live 스터디 운영 프로젝트
-- 전체 15주 과정의 스터디로, 매주 과제를 제출하고 Live 방송을 통해 피드백 받는 방식
+- 전체 18주 과정의 스터디로, 매주 과제를 제출하고 Live 방송을 통해 피드백 받는 방식
 
 SIST 학원에서 배웠던 내용을 다시 한번 정리하면서 Java 기초지식을 복습하고 놓쳤던 개념을 학습합니다.
 
